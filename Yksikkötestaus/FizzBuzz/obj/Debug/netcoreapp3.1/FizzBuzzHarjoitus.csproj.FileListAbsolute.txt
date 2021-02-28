@@ -1,0 +1,13 @@
+C:\Users\issuj\OneDrive\Työpöytä\Koulu\Ohjelmointi\C#\FizzBuzz\bin\Debug\netcoreapp3.1\FizzBuzzHarjoitus.exe
+C:\Users\issuj\OneDrive\Työpöytä\Koulu\Ohjelmointi\C#\FizzBuzz\bin\Debug\netcoreapp3.1\FizzBuzzHarjoitus.deps.json
+C:\Users\issuj\OneDrive\Työpöytä\Koulu\Ohjelmointi\C#\FizzBuzz\bin\Debug\netcoreapp3.1\FizzBuzzHarjoitus.runtimeconfig.json
+C:\Users\issuj\OneDrive\Työpöytä\Koulu\Ohjelmointi\C#\FizzBuzz\bin\Debug\netcoreapp3.1\FizzBuzzHarjoitus.runtimeconfig.dev.json
+C:\Users\issuj\OneDrive\Työpöytä\Koulu\Ohjelmointi\C#\FizzBuzz\bin\Debug\netcoreapp3.1\FizzBuzzHarjoitus.dll
+C:\Users\issuj\OneDrive\Työpöytä\Koulu\Ohjelmointi\C#\FizzBuzz\bin\Debug\netcoreapp3.1\FizzBuzzHarjoitus.pdb
+C:\Users\issuj\OneDrive\Työpöytä\Koulu\Ohjelmointi\C#\FizzBuzz\obj\Debug\netcoreapp3.1\FizzBuzzHarjoitus.csprojAssemblyReference.cache
+C:\Users\issuj\OneDrive\Työpöytä\Koulu\Ohjelmointi\C#\FizzBuzz\obj\Debug\netcoreapp3.1\FizzBuzzHarjoitus.AssemblyInfoInputs.cache
+C:\Users\issuj\OneDrive\Työpöytä\Koulu\Ohjelmointi\C#\FizzBuzz\obj\Debug\netcoreapp3.1\FizzBuzzHarjoitus.AssemblyInfo.cs
+C:\Users\issuj\OneDrive\Työpöytä\Koulu\Ohjelmointi\C#\FizzBuzz\obj\Debug\netcoreapp3.1\FizzBuzzHarjoitus.csproj.CoreCompileInputs.cache
+C:\Users\issuj\OneDrive\Työpöytä\Koulu\Ohjelmointi\C#\FizzBuzz\obj\Debug\netcoreapp3.1\FizzBuzzHarjoitus.dll
+C:\Users\issuj\OneDrive\Työpöytä\Koulu\Ohjelmointi\C#\FizzBuzz\obj\Debug\netcoreapp3.1\FizzBuzzHarjoitus.pdb
+C:\Users\issuj\OneDrive\Työpöytä\Koulu\Ohjelmointi\C#\FizzBuzz\obj\Debug\netcoreapp3.1\FizzBuzzHarjoitus.genruntimeconfig.cache

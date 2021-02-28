@@ -1,0 +1,13 @@
+C:\Users\issuj\OneDrive\Työpöytä\Koulu\Ohjelmointi\C#\LaskinOhjelma\bin\Debug\netcoreapp3.1\LaskinOhjelma.exe
+C:\Users\issuj\OneDrive\Työpöytä\Koulu\Ohjelmointi\C#\LaskinOhjelma\bin\Debug\netcoreapp3.1\LaskinOhjelma.deps.json
+C:\Users\issuj\OneDrive\Työpöytä\Koulu\Ohjelmointi\C#\LaskinOhjelma\bin\Debug\netcoreapp3.1\LaskinOhjelma.runtimeconfig.json
+C:\Users\issuj\OneDrive\Työpöytä\Koulu\Ohjelmointi\C#\LaskinOhjelma\bin\Debug\netcoreapp3.1\LaskinOhjelma.runtimeconfig.dev.json
+C:\Users\issuj\OneDrive\Työpöytä\Koulu\Ohjelmointi\C#\LaskinOhjelma\bin\Debug\netcoreapp3.1\LaskinOhjelma.dll
+C:\Users\issuj\OneDrive\Työpöytä\Koulu\Ohjelmointi\C#\LaskinOhjelma\bin\Debug\netcoreapp3.1\LaskinOhjelma.pdb
+C:\Users\issuj\OneDrive\Työpöytä\Koulu\Ohjelmointi\C#\LaskinOhjelma\obj\Debug\netcoreapp3.1\LaskinOhjelma.csprojAssemblyReference.cache
+C:\Users\issuj\OneDrive\Työpöytä\Koulu\Ohjelmointi\C#\LaskinOhjelma\obj\Debug\netcoreapp3.1\LaskinOhjelma.AssemblyInfoInputs.cache
+C:\Users\issuj\OneDrive\Työpöytä\Koulu\Ohjelmointi\C#\LaskinOhjelma\obj\Debug\netcoreapp3.1\LaskinOhjelma.AssemblyInfo.cs
+C:\Users\issuj\OneDrive\Työpöytä\Koulu\Ohjelmointi\C#\LaskinOhjelma\obj\Debug\netcoreapp3.1\LaskinOhjelma.csproj.CoreCompileInputs.cache
+C:\Users\issuj\OneDrive\Työpöytä\Koulu\Ohjelmointi\C#\LaskinOhjelma\obj\Debug\netcoreapp3.1\LaskinOhjelma.dll
+C:\Users\issuj\OneDrive\Työpöytä\Koulu\Ohjelmointi\C#\LaskinOhjelma\obj\Debug\netcoreapp3.1\LaskinOhjelma.pdb
+C:\Users\issuj\OneDrive\Työpöytä\Koulu\Ohjelmointi\C#\LaskinOhjelma\obj\Debug\netcoreapp3.1\LaskinOhjelma.genruntimeconfig.cache
